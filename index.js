@@ -25,6 +25,9 @@ const generateItemElement = function (item) {
         <button class='shopping-item-toggle js-item-toggle'>
           <span class='button-label'>check</span>
         </button>
+        <button class="shopping-item-edit">
+          <span class="button-label">edit</span>
+        </button>
         <button class='shopping-item-delete js-item-delete'>
           <span class='button-label'>delete</span>
         </button>
